@@ -43,8 +43,8 @@
 **Сечение профилей **
 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image1.png)
-![](./Delight-Design/media/image2.png)
-![](./Delight-Design/media/image3.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image2.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image3.png)
 
 Коробка 60 554008 Створка Z57 554018 Импост 78 554028
 
@@ -55,20 +55,20 @@
 
 **Белый профиль **
 
-![](./Delight-Design/media/image4.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image4.png)
 
-![](./Delight-Design/media/image5.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image5.png)
 
-![](./Delight-Design/media/image6.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image6.png)
 
 Армирование 35х20х1,2 рама Армирование 35х27,5х1,2 створка Армирование
 35x20x1,5импост
 
 **Ламинированный профиль**
 
-![](./Delight-Design/media/image4.png)
-![](./Delight-Design/media/image5.png)
-![](./Delight-Design/media/image6.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image4.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image5.png)
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/Delight-Design/media/image6.png)
 
 Армирование 35х20х2,0 рама Армирование 35х20х2,0 створка Армирование
 35x20x2,0 импост
