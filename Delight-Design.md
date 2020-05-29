@@ -42,7 +42,7 @@
 
 **Сечение профилей **
 
-![](./Delight-Design/media/image1.png)
+![](/Delight-Design/media/image1.png)
 ![](./Delight-Design/media/image2.png)
 ![](./Delight-Design/media/image3.png)
 
