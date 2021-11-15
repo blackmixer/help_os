@@ -46,7 +46,7 @@
 
 **Армирование:**
 
-**Белый профиль **
+**Белый профиль**
 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/portal/media/image4.png)
 Армир 30х25х1,5 рама
