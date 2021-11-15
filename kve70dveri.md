@@ -34,7 +34,7 @@
 
 * * *
 
-**Сечение профилей **
+**Сечение профилей**
 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image1.png)
 Рама 70104
@@ -53,7 +53,7 @@
 
 **Армирование:**
 
-**Белый профиль **
+**Белый профиль**
 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image6.png)
 Армир 30х25х1,5 рама
@@ -62,8 +62,7 @@
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image8.png)
 Армир 30x25x1,5импост 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kve70dveri/media/image9.png)
-Армир
-30x20x1,5штульп
+Армир 30x20x1,5штульп
 
 **Ламинированный профиль**
 
