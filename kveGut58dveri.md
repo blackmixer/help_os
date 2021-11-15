@@ -36,7 +36,7 @@
 
 * * *
 
-**Сечение профилей **
+**Сечение профилей**
 
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58dveri/media/image1.png)
 Рама 806
