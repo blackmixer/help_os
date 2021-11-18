@@ -41,8 +41,8 @@
 Рама 7390
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image2.png)
 Створка 7395
-![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image3.png)
-Импост7382
+![](https://raw.githubusercontent.com/AlexandraEgorovatmk/help_os/master/kveMaster/media/image3.png)
+Импост 7382
 
 **Армирование:**
 
@@ -55,6 +55,6 @@
 
 | Применяемые профили | Белый профиль | Ламинированный профиль|
 |----------------|:---------:|:----------|
-| рама 61 мм |  30х25х1,3  |  30х25х2 |
-| Створка 75 мм  | 30х25х1,3 |  30х25х2 |
-| Импост 78 мм | 30x25x1,5 |  38х20х2 |
+| Рама 62 мм |  30х25х1,3  |  30х25х2 |
+| Створка 76 мм  | 30х25х1,3 |  30х25х2 |
+| Импост 82 мм | 30x25x1,5 |  38х20х2 |
