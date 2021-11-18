@@ -36,7 +36,7 @@
 
 **Сечение профилей **
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image1.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image1.png)
 Рама 7907
 ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image2.png)
 Створка 7917
