@@ -37,30 +37,24 @@
 
 **Сечение профилей**
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image1.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image1.png)
 Рама 7390
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image2.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image2.png)
 Створка 7395
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image3.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image3.png)
 Импост7382
-
 
 **Армирование:**
 
-**Белый профиль**
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image4.png)
+Армирование рама
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image5.png)
+Армирование створка
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveMaster/media/image6.png)
+Армирование импост
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image4.png)
-Армирование 30х25х1,3 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image5.png)
-Армирование 30х25х1,3 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image6.png)
-Армирование 38x20x1,5импост
-
-**Ламинированный профиль**
-
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image4.png)
-Армирование 30х25х2,0 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image5.png)
-Армирование 30х25х2,0 створка 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveMaster/media/image6.png)
-Армирование 38х20х2,0 импост
+| Применяемые профили | Белый профиль | Ламинированный профиль|
+|----------------|:---------:|:----------|
+| рама 61 мм |  30х25х1,3  |  30х25х2 |
+| Створка 75 мм  | 30х25х1,3 |  30х25х2 |
+| Импост 78 мм | 30x25x1,5 |  38х20х2 |
