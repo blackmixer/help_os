@@ -34,39 +34,33 @@
 
 * * *
 
-**Сечение профилей **
+**Сечение профилей**
 
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image1.png)
 Рама 7907
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image2.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image2.png)
 Створка 7917
-  ![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image3.png)
+  ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image3.png)
   Импост 7937
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image4.png)
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image4.png)
 Штульп 5340
 
 * * *
 
 **Армирование:**
 
-**Белый профиль**
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image5.png)
+Армирование рама
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image6.png)
+Армирование створка
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image7.png)
+Армирование импост
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/kveGut58/media/image8.png)
+Армирование штульп
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image5.png)
-Армир30х25х1,3рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image6.png)
-Армир 30х25х1,3 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image7.png)
-Армир30x25x1,5импост
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image8.png)
-Армир30x15x1,5штульп
-
-**Ламинированный профиль**
-
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image5.png)
-Армир 30х25х2рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image6.png)
-Армир30х25х2створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image7.png)
-Армир 30х25х2 импост
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/kveGut58/media/image8.png)
-Армир 30x15x1,5штульп
+| Применяемые профили | Белый профиль | Ламинированный профиль|
+|----------------|:---------:|:----------|
+| рама 61 мм |  30х25х1,3  |  30х25х2 |
+| Створка 75 мм  | 30х25х1,3 |  30х25х2 |
+| Импост 78 мм | 30x25x1,5 |  30х25х2 |
+| Штульп 65 мм | 30x15x1,5 |  30x15x1,5 |
