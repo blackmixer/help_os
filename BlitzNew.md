@@ -52,11 +52,11 @@
 **Белый профиль**
 
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/BlitzNew/media/image4%20(1).png)
-Армирование 35х20х1,2 рама
+
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/BlitzNew/media/image5.png)
-Армирование 35х27,5х1,2 створка
+
 ![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/BlitzNew/media/image6%20(1).png)
-Армирование 35x20x1,5 импост
+
 
 | Применяемые профили | Белый профиль | Ламинированный профиль|
 |----------------|:---------:|:----------|
