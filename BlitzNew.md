@@ -51,18 +51,15 @@
 
 **Белый профиль**
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/BlitzNew/media/image4.png)
-Армирование 35х20х1,2 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/BlitzNew/media/image5.png)
-Армирование 35х27,5х1,2 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/BlitzNew/media/image6.png)
-Армирование 35x20x1,5импост
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/BlitzNew/media/image4%20(1).png)
 
-**Ламинированный профиль**
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/BlitzNew/media/image5.png)
 
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/BlitzNew/media/image4.png)
-Армирование 35х20х2,0 рама
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/BlitzNew/media/image5.png)
-Армирование 35х20х2,0 створка
-![](https://raw.githubusercontent.com/blackmixer/help_os/master/BlitzNew/media/image6.png)
-Армирование 35x20x2,0 импост
+![](https://github.com/AlexandraEgorovatmk/help_os/blob/master/BlitzNew/media/image6%20(1).png)
+
+
+| Применяемые профили | Белый профиль | Ламинированный профиль|
+|----------------|:---------:|:----------|
+| Рама 62 мм |  35х20х1,2  | 35х20х2,0 |
+| Створка Z55  | 35х27,5х1,2 |  35х20х2,0 |
+| Импост 76 мм | 35x20x1,5 |  35х20х2,0 |
