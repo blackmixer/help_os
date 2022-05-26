@@ -1,6 +1,6 @@
 **Акция «Новоселам москитная сетка по фиксированной цене!»**
 
-![](./test_md//media/image1.jpeg){width="6.495833333333334in"
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/test_md/media/image1.jpeg){width="6.495833333333334in"
 height="3.6618055555555555in"}
 
 Мы всегда искренне радуемся за тех, кто получает заветные ключи от своей
@@ -45,7 +45,7 @@ height="3.6618055555555555in"}
 
 > **Баннер на сайте «Оставь занозы в прошлом»**
 
-![](./test_md//media/image2.jpeg){width="6.495833333333334in"
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/test_md/media/image2.jpeg){width="6.495833333333334in"
 height="3.6618055555555555in"}
 
 > **Механика воздействия:**
@@ -58,7 +58,7 @@ height="3.6618055555555555in"}
 
     **Акция «Бесплатный выезд специалиста по окнам к вам на дом»**
 
-    ![](./test_md//media/image3.jpeg){width="6.495833333333334in"
+    ![](https://raw.githubusercontent.com/blackmixer/help_os/master/test_md/media/image3.jpeg){width="6.495833333333334in"
     height="3.6618055555555555in"}
 
 Сомневаетесь заказывать ли окна в нашей компании? Боитесь, что новая
@@ -88,7 +88,7 @@ height="3.6618055555555555in"}
 
 **Баннер на сайте «Цены ниже чем в строймагазинах»**
 
-![](./test_md//media/image4.jpeg){width="6.495833333333334in"
+![](https://raw.githubusercontent.com/blackmixer/help_os/master/test_md/media/image4.jpeg){width="6.495833333333334in"
 height="3.6618055555555555in"}
 
 > **Механика воздействия:**
