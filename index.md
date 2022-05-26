@@ -1,6 +1,21 @@
 v1 v2
 
 <details><summary>A dropdown list for markdown</summary>
+
+<details><summary>A 23534534 list for markdown</summary>
+
+   1. First item must be 234234 with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+<details><summary>A 343 list for markdown</summary>
+
+   1. First item must be preceeded with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+
+</details>
+
+</details>
 1. [Delight-Design.md](Delight-Design.md)
 1. [GRAZIO.md](GRAZIO.md)
 1. [kveekspert.md](kveekspert.md)
